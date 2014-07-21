@@ -1,0 +1,14 @@
+{
+  "name": "mileageChallenge",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drew Cuthbertson",
+  "license": "ISC",
+  "dependencies": {
+    "fitbit-js": "^0.2.0"
+  }
+}
